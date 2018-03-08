@@ -1,0 +1,30 @@
+body, html {
+    width:100%;
+    background: #9BC1BC;
+
+}
+.error-container{
+margin:250 auto;
+}
+.error-container > h1{
+    color: #F4F1BB;
+    font-weight:bold;
+    text-align: center;
+
+
+
+}
+.error-icon-container{
+    text-align: center;
+    
+}
+.error-icon-container >{
+    text-align: center;
+    width: 200px;
+    
+}
+.thankyou{
+    width: 80%;
+    padding-top: 100px;
+
+}
